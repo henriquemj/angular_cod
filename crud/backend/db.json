@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Iphone SE 2020",
       "price": 2000.89
+    },
+    {
+      "name": "Fogão",
+      "price": "2000.50",
+      "id": 4
     }
   ]
 }
