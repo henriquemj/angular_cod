@@ -13,11 +13,11 @@
     {
       "id": 3,
       "name": "Iphone SE 2020",
-      "price": 2000.89
+      "price": "2500.00"
     },
     {
-      "name": "Fogão",
-      "price": "2000.50",
+      "name": "Fogão 5 bocas",
+      "price": "2100.00",
       "id": 4
     }
   ]
